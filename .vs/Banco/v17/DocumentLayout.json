@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmeditardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmeditardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmdonante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmdonante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\frmagregarnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmagregarnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmagendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmagendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmaddonantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmaddonantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmadcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmadcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmeditardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmeditardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmdonante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmdonante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\frmcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\frmagregarnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmagregarnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmagendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmagendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\csinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:csinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\cscita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:cscita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\frmadcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\csusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:csusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmaddonantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmaddonantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\frmadcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmadcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\frmcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:frmcuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|c:\\users\\hp\\source\\repos\\banco\\cscuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:cscuestionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|C:\\Users\\HP\\source\\repos\\Banco\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE098611-B6D0-412A-AD7C-94FB98EFAFF1}|Banco.csproj|solutionrelative:csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEditarDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmEditarDatos.cs",
+              "RelativeDocumentMoniker": "frmEditarDatos.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmEditarDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmEditarDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:15:19.204Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInfo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmInfo.cs",
+              "RelativeDocumentMoniker": "frmInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmInfo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmInfo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:55:03.028Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmInventario.cs",
+              "RelativeDocumentMoniker": "frmInventario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:08:16.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:55:08.418Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "frmRegistro.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:59:55.361Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAhwFUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:18:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDonante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmDonante.cs",
+              "RelativeDocumentMoniker": "frmDonante.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmDonante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmDonante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:52:59.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCuestionario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmCuestionario.cs",
+              "RelativeDocumentMoniker": "frmCuestionario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmCuestionario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmCuestionario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:13:57.526Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "frmContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:23:28.805Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAgregarNuevo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgregarNuevo.cs",
+              "RelativeDocumentMoniker": "frmAgregarNuevo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgregarNuevo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgregarNuevo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:37:55.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAgendarCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgendarCita.cs",
+              "RelativeDocumentMoniker": "frmAgendarCita.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgendarCita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgendarCita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:54:30.449Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:22:43.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmADdonantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADdonantes.cs",
+              "RelativeDocumentMoniker": "frmADdonantes.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADdonantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmADdonantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:05:39.474Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmADCuestionario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCuestionario.cs",
+              "RelativeDocumentMoniker": "frmADCuestionario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCuestionario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmADCuestionario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:07:18.738Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmADCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCitas.cs",
+              "RelativeDocumentMoniker": "frmADCitas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCitas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmADCitas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:02:29.658Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmEditarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmEditarDatos.cs",
+              "RelativeDocumentMoniker": "frmEditarDatos.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmEditarDatos.cs",
+              "RelativeToolTip": "frmEditarDatos.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:57:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAdmin.cs",
+              "RelativeToolTip": "frmAdmin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:24:10.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDonante.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmDonante.cs",
+              "RelativeDocumentMoniker": "frmDonante.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmDonante.cs",
+              "RelativeToolTip": "frmDonante.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:08:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "frmContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmContrase\u00F1a.cs",
+              "RelativeToolTip": "frmContrase\u00F1a.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:23:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmAgregarNuevo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgregarNuevo.cs",
+              "RelativeDocumentMoniker": "frmAgregarNuevo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgregarNuevo.cs",
+              "RelativeToolTip": "frmAgregarNuevo.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:03:03.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "frmRegistro.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmRegistro.cs",
+              "RelativeToolTip": "frmRegistro.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:38:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAgendarCita.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgendarCita.cs",
+              "RelativeDocumentMoniker": "frmAgendarCita.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmAgendarCita.cs",
+              "RelativeToolTip": "frmAgendarCita.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:50:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "csInventario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\csInventario.cs",
+              "RelativeDocumentMoniker": "csInventario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\csInventario.cs",
+              "RelativeToolTip": "csInventario.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAFUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:13:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "csCita.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\csCita.cs",
+              "RelativeDocumentMoniker": "csCita.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\csCita.cs",
+              "RelativeToolTip": "csCita.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAH4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:51:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmInventario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmInventario.cs",
+              "RelativeDocumentMoniker": "frmInventario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmInventario.cs",
+              "RelativeToolTip": "frmInventario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:09:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmADCuestionario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCuestionario.cs",
+              "RelativeDocumentMoniker": "frmADCuestionario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCuestionario.cs",
+              "RelativeToolTip": "frmADCuestionario.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:07:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "csUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\csUsuario.cs",
+              "RelativeDocumentMoniker": "csUsuario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\csUsuario.cs",
+              "RelativeToolTip": "csUsuario.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAKoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:20:15.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmADCitas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCitas.cs",
+              "RelativeDocumentMoniker": "frmADCitas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADCitas.cs",
+              "RelativeToolTip": "frmADCitas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:02:42.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmADdonantes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmADdonantes.cs",
+              "RelativeDocumentMoniker": "frmADdonantes.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmADdonantes.cs",
+              "RelativeToolTip": "frmADdonantes.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:06:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmCuestionario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\frmCuestionario.cs",
+              "RelativeDocumentMoniker": "frmCuestionario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\frmCuestionario.cs",
+              "RelativeToolTip": "frmCuestionario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:28:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "csCuestionario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\csCuestionario.cs",
+              "RelativeDocumentMoniker": "csCuestionario.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\csCuestionario.cs",
+              "RelativeToolTip": "csCuestionario.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:29:38.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "csConexion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Banco\\csConexion.cs",
+              "RelativeDocumentMoniker": "csConexion.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Banco\\csConexion.cs",
+              "RelativeToolTip": "csConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:08:01.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
