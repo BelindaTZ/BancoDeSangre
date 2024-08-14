@@ -134,7 +134,7 @@ Con gratitud,
                             MessageBox.Show("Se actualizaron los datos correctamentes");
 
                             fila.Cells["FechaHora"].Style = dgvCitas.DefaultCellStyle;
-                            fila.Cells["Comentario"].Style = dgvCitas.DefaultCellStyle;
+                            //fila.Cells["Comentario"].Style = dgvCitas.DefaultCellStyle;
                             fila.Cells["Confirmacion"].Style = dgvCitas.DefaultCellStyle;
                         }
                         catch (Exception ex)
@@ -156,7 +156,7 @@ Con gratitud,
                     MessageBox.Show("Se actualizaron los datos correctamentes");
 
                     fila.Cells["FechaHora"].Style = dgvCitas.DefaultCellStyle;
-                    fila.Cells["Comentario"].Style = dgvCitas.DefaultCellStyle;
+                    //fila.Cells["Comentario"].Style = dgvCitas.DefaultCellStyle;
                     fila.Cells["Confirmacion"].Style = dgvCitas.DefaultCellStyle;
                 }
 

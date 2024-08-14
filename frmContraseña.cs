@@ -15,7 +15,7 @@ namespace Banco
 {
     public partial class frmContraseña : Form
     {
-        private const string connectionString = "Data Source=MAYERLIBASURTO\\SQLEXPRESS;DataBase = Banco;User id = sa;Password = 12345";
+        private const string connectionString = "Data Source=.;DataBase = Banco;User id = sa;Password = 123456";
         public string Cedula { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }

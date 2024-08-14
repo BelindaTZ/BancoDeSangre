@@ -24,9 +24,9 @@ namespace Banco
             try
             {
 
-                server = "MAYERLIBASURTO\\SQLEXPRESS";
+                server = ".";
                 user = "sa";
-                password = "12345";
+                password = "123456";
                 database = "Banco";
 
                 con = new SqlConnection();

@@ -17,7 +17,7 @@ namespace Banco
     public partial class frmRegistro : Form
     {
         int edad;
-        private const string connectionString = "Data Source=MAYERLIBASURTO\\SQLEXPRESS;DataBase = Banco;User id = sa;Password = 12345";
+        private const string connectionString = "Data Source=.;DataBase = Banco;User id = sa;Password = 123456";
         public frmRegistro()
         {
             InitializeComponent();
