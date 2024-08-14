@@ -272,10 +272,10 @@
     <None Include="Resources\Captura de pantalla 2024-08-04 214748.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\world-blood-donor-day-give-blood-save-life-a-bag-of-fresh-blood-or-packed-red-cells-on-white-background-donation-or-therapy-or-exchanged-transfusion-medical-sign-3d-eps10-illustration-vector.jpg" />
+    <None Include="Resources\ejemplo.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\world-blood-donor-day-give-blood-save-life-a-bag-of-fresh-blood-or-packed-red-cells-on-white-background-donation-or-therapy-or-exchanged-transfusion-medical-sign-3d-eps10-illustration-vector1.jpg" />
+    <None Include="Resources\ejemplo2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\personaje-mujer-falda-sosteniendo-lapiz-pie-junto-gran-ilustracion-3d-papel-blanco_516484-815-_1_.jpg" />
